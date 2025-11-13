@@ -1,0 +1,3 @@
+https://www.myopenmath.com/admin/importitems2.php?cid=###
+
+replacing ### with the course ID you want to import into. That'll let you import the export file.
