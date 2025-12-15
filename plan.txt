@@ -1,8 +1,0 @@
-- Does the app store a current course and/or assessment, or always create a new one?
-- How do accounting questions correspond to regular multichoice questions?
-- How do faculty use this? Does it generate code to be pasted into MyOpenMath, or a file for me to upload? 
----> maybe I'll start with the copy/paste approach
-
-- use right click within an editor area to insert tables?
-- maybe open a table editor dialog/modal that can be used to specify which values are
-answers, which are fixed (displayed to student)
